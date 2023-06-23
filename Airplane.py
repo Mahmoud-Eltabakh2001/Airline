@@ -21,7 +21,7 @@ def predict_Airplane_price(Airline, Source, Destination, Total_Stops, month,day,
 
 def main():
     
-    st.set_page_config(layout="wide")
+       st.set_page_config(layout="wide")
 
 
       
